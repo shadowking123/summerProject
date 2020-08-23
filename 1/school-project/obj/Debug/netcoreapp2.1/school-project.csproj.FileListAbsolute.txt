@@ -1,0 +1,11 @@
+C:\Users\ofek itzhaki\source\repos\school-project\school-project\bin\Debug\netcoreapp2.1\school-project.deps.json
+C:\Users\ofek itzhaki\source\repos\school-project\school-project\bin\Debug\netcoreapp2.1\school-project.runtimeconfig.json
+C:\Users\ofek itzhaki\source\repos\school-project\school-project\bin\Debug\netcoreapp2.1\school-project.runtimeconfig.dev.json
+C:\Users\ofek itzhaki\source\repos\school-project\school-project\bin\Debug\netcoreapp2.1\school-project.dll
+C:\Users\ofek itzhaki\source\repos\school-project\school-project\bin\Debug\netcoreapp2.1\school-project.pdb
+C:\Users\ofek itzhaki\source\repos\school-project\school-project\obj\Debug\netcoreapp2.1\school-project.csprojAssemblyReference.cache
+C:\Users\ofek itzhaki\source\repos\school-project\school-project\obj\Debug\netcoreapp2.1\school-project.csproj.CoreCompileInputs.cache
+C:\Users\ofek itzhaki\source\repos\school-project\school-project\obj\Debug\netcoreapp2.1\school-project.AssemblyInfoInputs.cache
+C:\Users\ofek itzhaki\source\repos\school-project\school-project\obj\Debug\netcoreapp2.1\school-project.AssemblyInfo.cs
+C:\Users\ofek itzhaki\source\repos\school-project\school-project\obj\Debug\netcoreapp2.1\school-project.dll
+C:\Users\ofek itzhaki\source\repos\school-project\school-project\obj\Debug\netcoreapp2.1\school-project.pdb
